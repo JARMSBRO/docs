@@ -13,4 +13,6 @@ children:
   - /use-github-for-your-schoolwork
   - /use-github-in-your-classroom-and-research
 ---
+title: colabrador
 
+intro. me gustaria formar parte de su equipo de colaborades
